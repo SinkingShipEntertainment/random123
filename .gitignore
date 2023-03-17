@@ -44,3 +44,7 @@
 **/time_boxmuller_cuda
 **/time_cuda
 **/*.i
+
+# SSE
+_rez_build
+.vscode
